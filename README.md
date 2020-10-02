@@ -1,5 +1,6 @@
 # URL-Shortener
 
+
 <a href="https://github.com/rishz/URL-Shortener/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
 
 A URL-Shortener created using Node-JS and synced with Firebase Database.
@@ -65,3 +66,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Please avoid spamming and use only for educational purposes 
